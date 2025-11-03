@@ -6,7 +6,7 @@
 
 ## 👀 About Me  
 - 💻 Passionate about **Cybersecurity, Artificial Intelligence, and Software Development**  
-- 🌱 Currently learning and exploring **AI/ML,Cybersecurity concepts** alongside **B.Sc. IT projects**  
+- 🌱 Currently learning and exploring **AI/ML,Cybersecurity concepts** alongside **B.Sc. IT Studies**  
 - 🤖 Curious about **Machine Learning, Neural Networks, and Automation**  
 - 💡 Love solving real-world problems with code, secure solutions & intelligent systems  
 - 🤝 Open to collaborating on **software, cybersecurity, and AI-related projects**  
