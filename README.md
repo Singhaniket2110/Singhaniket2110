@@ -27,8 +27,8 @@
 ## 🛠️ Tech Stack & Tools  
 - 🖥️ **Languages**: C, C++, Java, C#, Python, SQL  
 - 🌐 **Web**: HTML, CSS, JavaScript, ASP.NET  
-- 🗄️ **Databases**: MySQL, SQL Server    
-- ⚙️ **Tools**: Git, GitHub, Visual Studio, VS Code, Apache NetBeans  
+- 🗄️ **Databases**: MySQL, SQL Server, Supabase    
+- ⚙️ **Tools**: Git, GitHub, Visual Studio 2022, VS Code, Apache NetBeans, SSMS, QGIS  
 
 ---
 
