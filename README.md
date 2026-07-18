@@ -1,6 +1,6 @@
 ## Hi there, I'm Aniket Singh 👋  
 
-🎓 **B.Sc. IT Student | Cybersecurity & AI Enthusiast | Software Developer**  
+🎓 **B.Sc. IT Student | Cybersecurity Enthusiast | Software Developer**  
 
 ---
 
